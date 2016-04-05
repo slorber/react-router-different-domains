@@ -1,0 +1,20 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "dependencies": {
+    "history": "^2.0.1",
+    "lodash": "^4.8.2",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "react-router": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "babel-core": "^5.4.7",
+    "babel-eslint": "^4.1.6",
+    "babel-loader": "^5.0.0",
+    "babel-plugin-dev-expression": "^0.1.0",
+    "webpack": "^1.4.13",
+    "webpack-dev-middleware": "^1.2.0"
+  }
+}

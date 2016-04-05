@@ -1,0 +1,17 @@
+*~
+**~
+
+npm-debug.log
+
+node_modules
+build
+build/**
+
+www/config.xml
+
+.idea
+*.iml
+
+.DS_Store
+
+tags
